@@ -51,3 +51,4 @@ You can now access this website in your web browser by visiting the domain name 
 
 ``http://your_domain_or_IP/todo_list.php``
 
+You will have to create a database and a table in it using Mysql for the backend
