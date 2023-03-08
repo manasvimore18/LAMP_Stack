@@ -1,6 +1,5 @@
 ## 1.Installing Apache and Updating the Firewall
-Started by updating the package manager cache. 
-$ sudo apt update
+Started by updating the package manager cache.  ``$ sudo apt update``
 Then, installed Apache with
 $ sudo apt install apache2
 ## 2.Adjusting the Firewall to Allow Web Traffic
